@@ -1,30 +1,21 @@
 # Hi there, I'm Raunaksingh Khalsa 👋
 
 ## About Me
-**Masters in Data Science Student** at Northeastern University with 3.5+ years of software engineering experience. Passionate about **Machine Learning, AI, and Data Science** with hands-on experience in data engineering, feature selection, and building scalable data pipelines for analytics and ML applications.
+**Masters in Data Science Student** at Northeastern University with 3.5+ years of data engineering experience. Passionate about **Machine Learning, AI, and Data Science** with hands-on experience in data engineering, feature selection, and building scalable data pipelines for analytics and ML applications.
 
-## Work Experience
+## I have worked as:
 
 ### Michelin - Integration and Data Engineer
-- **Data Pipeline Development:** Built real-time data streaming systems using Kafka and Spring Boot for ML-ready data processing
-- **Feature Engineering & Data Governance:** Optimized data selection and cleaning processes, reducing unnecessary features by identifying business-critical data points
-- **ML Data Infrastructure:** Designed data flows for Corporate Data Lake integration, enabling downstream analytics and ML model training
-- **Performance Optimization:** Reduced development time by 80% through automation, achieving 13% cost reduction in data processing workflows
-
+Built real-time data streaming systems using Kafka and Spring Boot for ML-ready data processing, specializing in feature engineering and data governance. Optimized data selection and cleaning processes, reducing unnecessary features by identifying business-critical data points. Designed data flows for Corporate Data Lake integration, enabling downstream analytics and ML model training.
 ### Medialytics - Data Science Intern
-*January 2020 - May 2020*
-- **ML Model Development:** Built and deployed regression and classification models in Python and R on social media data, creating real-time trend prediction dashboards with Streamlit
-- **NLP & Feature Engineering:** Performed sentiment analysis and feature engineering on social media text and engagement data to identify content performance drivers
-- **Data Visualization & Impact:** Developed interactive visualizations using Matplotlib and Plotly, enabling data-driven strategies that achieved 100% increase in engagement and 82% rise in reach
-- **Model Optimization:** Increased social media trend forecast accuracy by 15% through hyperparameter tuning and cross-validation
-
+Developed regression and classification models in Python and R on social media data, creating real-time trend prediction dashboards with Streamlit. Performed sentiment analysis and feature engineering on social media text and engagement data to identify content performance drivers. Built interactive visualizations using Matplotlib and Plotly, enabling data-driven strategies that achieved 100% increase in engagement and 82% rise in reach.
 
 ## Key Projects
 
-### 🏦 Loan Default Prediction
-**Advanced ML Classification | 100K+ Records**
+### ⚖️ LegalClause: Legal Contract Analysis
+**NLP Classification & Risk Analysis | Fine-tuned Legal-BERT**
 
-Preprocessed 100K+ loan records with comprehensive missing value handling and feature selection, followed by exploratory data analysis using Seaborn and Plotly. Trained and tuned XGBoost and Random Forest models, achieving **87% accuracy** in predicting loan defaults through advanced feature engineering, encoding, and scaling techniques.
+Developed an intelligent legal assistant for automated contract clause classification and risk analysis using fine-tuned Legal-BERT model. Achieved **97.87% accuracy** in identifying clause types (Cap on Liability, Audit Rights, Insurance), significantly outperforming baseline TF-IDF + SVM model (85.16% accuracy). Integrated Google's Gemini API for comprehensive risk analysis and mitigation suggestions, deployed via Streamlit chat interface.
 
 ---
 
@@ -42,10 +33,10 @@ Built a machine learning-powered web application that predicts traffic condition
 
 ---
 
-### ⚖️ LegalClause: Legal Contract Analysis
-**NLP Classification & Risk Analysis | Fine-tuned Legal-BERT**
+### 🏦 Loan Default Prediction
+**Advanced ML Classification | 100K+ Records**
 
-Developed an intelligent legal assistant for automated contract clause classification and risk analysis using fine-tuned Legal-BERT model. Achieved **97.87% accuracy** in identifying clause types (Cap on Liability, Audit Rights, Insurance), significantly outperforming baseline TF-IDF + SVM model (85.16% accuracy). Integrated Google's Gemini API for comprehensive risk analysis and mitigation suggestions, deployed via Streamlit chat interface.
+Preprocessed 100K+ loan records with comprehensive missing value handling and feature selection, followed by exploratory data analysis using Seaborn and Plotly. Trained and tuned XGBoost and Random Forest models, achieving **87% accuracy** in predicting loan defaults through advanced feature engineering, encoding, and scaling techniques.
 
 ---
 
@@ -102,4 +93,6 @@ Performed comprehensive customer segmentation using RFM analysis (Recency, Frequ
 
 ---
 
-**Feel free to explore my repositories!** 🚀
+**Feel free to explore my repositories for projects in AI, ML, Data Engineering and more! 💡
+
+** 🚀
