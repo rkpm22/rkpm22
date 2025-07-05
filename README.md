@@ -3,11 +3,16 @@
 ## About Me
 **Masters in Data Science Student** at Northeastern University with 3.5+ years of data engineering experience. Passionate about **Machine Learning, AI, and Data Science** with hands-on experience in data engineering, feature selection, and building scalable data pipelines for analytics and ML applications.
 
-## I have worked as:
+## Here's a bit about what I've worked on:
 
-### Michelin - Integration and Data Engineer
+### Michelin - Integration and Data Engineer <img src="https://logos-world.net/wp-content/uploads/2021/03/Michelin-Symbol.png" alt="Michelin" width="40" height="40">
+**Global leader in tire manufacturing and sustainable mobility solutions, renowned for innovation in automotive technology and the Michelin Guide.**
+
 Built real-time data streaming systems using Kafka and Spring Boot for ML-ready data processing, specializing in feature engineering and data governance. Optimized data selection and cleaning processes, reducing unnecessary features by identifying business-critical data points. Designed data flows for Corporate Data Lake integration, enabling downstream analytics and ML model training.
+
 ### Medialytics - Data Science Intern
+**Data-driven startup focused on social media analytics and digital marketing intelligence.**
+
 Developed regression and classification models in Python and R on social media data, creating real-time trend prediction dashboards with Streamlit. Performed sentiment analysis and feature engineering on social media text and engagement data to identify content performance drivers. Built interactive visualizations using Matplotlib and Plotly, enabling data-driven strategies that achieved 100% increase in engagement and 82% rise in reach.
 
 ## Key Projects
@@ -52,27 +57,36 @@ Performed comprehensive customer segmentation using RFM analysis (Recency, Frequ
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Machine Learning & AI
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Data Processing & Analytics
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -81,10 +95,12 @@ Performed comprehensive customer segmentation using RFM analysis (Recency, Frequ
 ### Frameworks & Tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ## 📫 Let's Connect
 
@@ -93,6 +109,4 @@ Performed comprehensive customer segmentation using RFM analysis (Recency, Frequ
 
 ---
 
-**Feel free to explore my repositories for projects in AI, ML, Data Engineering and more! 💡
-
-** 🚀
+**Feel free to explore my repositories for projects in AI, ML, Data Engineering and more! 💡** 🚀
