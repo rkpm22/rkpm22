@@ -1,11 +1,14 @@
 # Hi there, I'm Raunaksingh Khalsa 👋
 
+> *"The goal is to turn data into information, and information into insight."*  
+> — **Carly Fiorina**
+
 ## About Me
 **Masters in Data Science Student** at Northeastern University with 3.5+ years of data engineering experience. Passionate about **Machine Learning, AI, and Data Science** with hands-on experience in data engineering, feature selection, and building scalable data pipelines for analytics and ML applications.
 
 ## Here's a bit about what I've worked on:
 
-### Michelin - Integration and Data Engineer ![Michelin](https://img.shields.io/badge/Michelin-0052CC?style=for-the-badge&logo=michelin&logoColor=white)
+### Michelin - Integration and Data Engineer
 **Global leader in tire manufacturing and sustainable mobility solutions, renowned for innovation in automotive technology and the Michelin Guide.**
 
 Built real-time data streaming systems using Kafka and Spring Boot for ML-ready data processing, specializing in feature engineering and data governance. Optimized data selection and cleaning processes, reducing unnecessary features by identifying business-critical data points. Designed data flows for Corporate Data Lake integration, enabling downstream analytics and ML model training.
