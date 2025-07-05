@@ -5,7 +5,7 @@
 
 ## Here's a bit about what I've worked on:
 
-### Michelin - Integration and Data Engineer <img src="https://logos-world.net/wp-content/uploads/2021/03/Michelin-Symbol.png" alt="Michelin" width="40" height="40">
+### Michelin - Integration and Data Engineer ![Michelin](https://img.shields.io/badge/Michelin-0052CC?style=for-the-badge&logo=michelin&logoColor=white)
 **Global leader in tire manufacturing and sustainable mobility solutions, renowned for innovation in automotive technology and the Michelin Guide.**
 
 Built real-time data streaming systems using Kafka and Spring Boot for ML-ready data processing, specializing in feature engineering and data governance. Optimized data selection and cleaning processes, reducing unnecessary features by identifying business-critical data points. Designed data flows for Corporate Data Lake integration, enabling downstream analytics and ML model training.
