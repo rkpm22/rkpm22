@@ -27,11 +27,14 @@ Developed regression and classification models in Python and R on social media d
 - Configured OAuth2 Service Principal authentication, IAM role-based access control, and deployed Synapse Analytics external tables for business intelligence consumption.
 - **Tech Stack:** Azure Data Factory, Databricks (PySpark), ADLS Gen2, Synapse Analytics, MySQL, MongoDB, Parquet, Python
 
+---
 
 ### MediQueryAI - AI-Powered Medical Chatbot
 - Engineered a medical chatbot using Retrieval-Augmented Generation (RAG) architecture to process 16,407 medical Q&A pairs, integrating FAISS vector database with Sentence Transformers (all-MiniLM-L6-v2, 384-dim embeddings) for semantic search and GPT-3.5-turbo for natural language generation. 
 - Built scalable end-to-end pipeline achieving <2-second response latency, featuring modular Python codebase (435 lines) with optimized IndexFlatL2 similarity search and intelligent prompt engineering. 
 - Developed interactive Streamlit web interface with real-time conversational UI, session state management, comprehensive error handling, and secure API integration.
+
+---
 
 ### ⚖️ LegalClause: Legal Contract Analysis
 **NLP Classification & Risk Analysis | Fine-tuned Legal-BERT**
