@@ -1,5 +1,7 @@
 # Hi there, I'm Raunaksingh Khalsa 👋
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rkpm22)
+
 > *"The goal is to turn data into information, and information into insight."*  
 > — **Carly Fiorina**
 
